@@ -3,7 +3,9 @@ This a local Restaurant Managment Application which makes it possible to store a
 
 # Getting Started:
 As one executes the "Restaurant Management.exe" file,A login window show up.This window expects the login credentials of your mysql database.
+
 ![](Screenshots/login.png)
 
 *All the other details regarding the applicaion and its working are included in its help section.*
-![](Screnshots/home.png)
+
+![](Screenshots/home.png)
