@@ -1,0 +1,17 @@
+To place a new order:s
+1) Navigate to the 'Customer Order' tab from the tab bar.
+2) Now select the order type from the drop-down list next to 'Order Type' attribute.
+3) Enter the customer's name next to the 'Customer Name' attribute.
+4) Enter order details in the 'Initial Order' groupbox.
+5) To add a entry click the '+' button on the left.To delete a entry click '-' button on the left.
+6) You can also search for an item in the 'Search Item' groupbox by its name.
+7) Finally click 'New Order' button.
+8) This adds a tab to the tab bar with the details of the new order
+9) Also, you can press the 'Reset' button at the top-right to reset all entries.
+10) Navigate to the newly added order.
+11) You can further add/delete items from the 'Order Details' groupbox.
+12) Also you can search for items in the 'Search Item' groupbox.
+13) If its a dine-in order, enter the table number next to its attribute.
+14) On order completion, Click 'Order Completed' button.
+15) Bill will be displayed as a prompt.
+16) A text will be sent to the mobile number entered during the initial order.

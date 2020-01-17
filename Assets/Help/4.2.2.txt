@@ -1,0 +1,13 @@
+To modify an item:
+1) Navigate to the 'Modify Menu' tab from the tab bar.
+2) In the 'Modify Menu' tab navigate to 'Edit Item' sub-tab.
+3) In the 'Delete Item' groupbox:
+       i) Select item type from the drop-down list next to 'Item Type' attribute.
+      ii) Enter the unique Item Id next to the 'Item Id' attribute.
+     iii) Finally click 'Search'.
+      iv) This should display the required item(if exists) in the Item Detail area at the bottom of the groupbox.
+4) In the 'Edit Item' groupbox:
+       i) Now the Edit Item Buttons will be activated with 'Change' written on them.
+      ii) Enter/Choose the value you want to edit infront of the given catagories.
+     iii) To reflect the changes, Press the 'Change' button infront of the particular category.
+      iv) A Successs prompt will be displayed.

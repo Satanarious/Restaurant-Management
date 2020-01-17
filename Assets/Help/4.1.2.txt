@@ -1,0 +1,11 @@
+To add multiple items:
+1) Navigate to the 'Modify Menu' tab from the tab bar.
+2) In the 'Modify Menu' tab navigate to 'Add New Item' sub-tab.
+3) Press the 'Upload File' button.
+4) This opens a dialog box.
+5) (If you have already created this file skip to step 7)In this dialog press the 'Create File' button to create a pre-formatted spreadsheet for this operation.
+6) This file is saved on the desktop. Add details to this file accordingly.
+7) Now Press the 'Choose' button to find the file.
+8) Navigate to the file in the file selection dialog.
+9) Lastly, Press 'Upload File'. If the file passes without any error then you will see a successfully uploaded message.
+10) You can see the changes in the menu(see 3.1)

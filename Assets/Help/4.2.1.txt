@@ -1,0 +1,11 @@
+To delete an item:
+1) Navigate to the 'Modify Menu' tab from the tab bar.
+2) In the 'Modify Menu' tab navigate to 'Edit Item' sub-tab.
+3) In the 'Delete Item' groupbox:
+       i) Select item type from the drop-down list next to 'Item Type' attribute.
+      ii) Enter the unique Item Id next to the 'Item Id' attribute.
+     iii) Finally click 'Search'.
+      iv) This should display the required item(if exists) in the Item Detail area at the bottom of the groupbox.
+       v) Lastly, Click on the 'Delete Entry' button.
+      vi) You will be prompted to confirm your choice.
+     vii) Confirm your choice.

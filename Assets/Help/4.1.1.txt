@@ -1,0 +1,10 @@
+To add a single new item:
+1) Navigate to the 'Modify Menu' tab from the tab bar.
+2) In the 'Modify Menu' tab navigate to 'Add New Item' sub-tab.
+3) In this tab select the item type from the drop-down list next to 'Item Type' attribute.
+4) Now enter the item Id next to'Item Id' attribute.
+5) Now enter the item Name next to'Item Name' attribute.
+6) Next, Enter the Half prize ,if exists, next to the 'Half Price' attribute.
+7) Next, Enter the Full prize ,if exists, next to the 'Full Price' attribute.
+8) Lastly, Click on the 'Add Item' button to submit the entry.
+9) Also, Press the 'Reset' button to set all fields to default or blank.

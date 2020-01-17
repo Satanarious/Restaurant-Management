@@ -1,0 +1,6 @@
+Search for order by Id:
+1) Navigate to the 'Database' tab from the tab bar
+2) In there navigate to 'Order by Id'.
+3) Enter the unique 'Customer Id' infront of its attribute.
+4) Finally click 'Search'
+5) Also, you can press 'Export to Excel file' to choose where to save the result as a spreadsheet.

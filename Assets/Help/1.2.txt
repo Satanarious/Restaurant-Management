@@ -1,0 +1,9 @@
+To change the Restaurant's name(Home page title):
+1) Simply navigate to the Setting's tab from the tab bar.
+2) In the Setting's tab select the second groupbox that says 'Change Restaurant Name'.
+3) Now to change various possible attributes of the title:
+      i) Write the Name in front of the 'Name' attribute(default 'The Restaurant').
+     ii) Change the font size from the spinner next to the 'Font Size' attribute(default '41').
+    iii) Change the font face from the drop down list next to 'Font Face' attribute(defaul 'Segoe UI Black').
+     iv) Finally click on 'Change' on the same groupbox to reflect the changes.
+      v) You can also press the 'Reset' button next to the 'Change' button to reset all attributes to the last saved presets.

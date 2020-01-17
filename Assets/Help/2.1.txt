@@ -1,0 +1,8 @@
+To change the database access password:
+1) Simply navigate to the settings from the tab bar.
+2) Remember the default password is 'password' without the quotes.
+3) Simply navigate to the 'Change Database Access Password' groupbox.
+4) Then enter the old or previously set password next to the 'Old Password' attribute.
+5) Then enter the new password next to the 'New Password' attribute.
+6) Lastly re-enter the new password next to the 'Retype Password' attribute.
+7) Finally click on the 'Change' button at the bottom of the groupbox.

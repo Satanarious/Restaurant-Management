@@ -1,0 +1,8 @@
+To Search login/logout details:
+1) Navigate to the 'Database' tab from the tab bar
+2) In there navigate to 'Log in/out details'.
+3) Select 'Search Type' from the drop-down list infront of its attribute.
+4) Select 'Search By' from the drop-down list infront of its attribute.
+5) Enter the filter for 'Search By' below it.
+6) Finally click 'Search'.
+7) Also, you can press 'Export to Excel file' to choose where to save the result as a spreadsheet.

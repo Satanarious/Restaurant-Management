@@ -1,0 +1,10 @@
+To login into the Database:
+1) Navigate to the 'Database' tab from the tab bar
+2) Enter the password next to the 'Password' attribute.
+3) Click authenticate.
+4) The text at the bottom will change to 'Access Granted'
+5) Now all the tabs right to the permit tab are accessable.
+6) To logout, click 'Unauthenticate'.
+7) The text at the bottom will change to 'Access Denied'
+8) Now all the tabs right to the permit tab are unaccessable.
+To change password(see 1.2)

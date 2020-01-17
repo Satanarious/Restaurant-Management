@@ -1,0 +1,9 @@
+To search customer details by various filters:
+1) Navigate to the 'Database' tab from the tab bar
+2) In there navigate to 'Customer details'.
+3) There are 6 categories for filtering.
+4) Choose single or multiple category(s).
+5) Enter the search details in their respective groupboxes.
+6) Finally click 'Search'.
+7) The Result count is displayed.
+8) Click the 'Export to Excel file' and choose where to save a spreadsheet of the result

@@ -1,0 +1,12 @@
+To search for menu items:
+1) Navigate to the Menu tab in the tab bar.
+   i) To search from all food items:
+        a) Navigate to the 'All' tab.
+        b) Now Search for a particular item by its name in the text-line next to the 'Search' button.
+        c) Finally Click the 'Search' button to filter the items.
+        d) Also click on the 'Refresh' button to Reset the filter.
+  ii) To Search in a specific category:
+        a) Navigate to the particular category in the tab bar(say, Starters,Main Course,Desserts,Drinks).
+        b) Now Search for a particular item by its name in the text-line next to the 'Search' button.
+        c) Finally Click the 'Search' button to filter the items.
+        d) Also click on the 'Refresh' button to Reset the filter.

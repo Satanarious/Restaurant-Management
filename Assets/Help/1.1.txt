@@ -1,0 +1,8 @@
+1) The topmost line contains the name of the restaurant which can be changed(see 1.2)
+2) The Details are at the bottom:
+        i) The first is the 'login date', which tells the last login date.
+       ii) The second is the 'login time', which tells the last login time.
+      iii) The third is the 'No. of Tables served(Today)', which is the total number of tables served that particular day.
+       iv) The fourth is the 'No. of Tables served(Till Today)', which is the total number of tables served from the very beginning till that time.
+        v) The fifth is the 'Today's Earning', which is the total money earned that day.
+       vi) The sixth is the 'Today's' Favorite', which is the most sold food item that day.
