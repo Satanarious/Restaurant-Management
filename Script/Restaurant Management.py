@@ -1260,7 +1260,6 @@ class new_order():
                 self.grid.addWidget(self.g2,5,0,1,3)
                 self.layout.addLayout(self.grid)
                 self.obj.tabWidget_4.addTab(self.contents, str(self.obj.lineEdit_8.text()))
-                self.obj.add_button("\n".join(self.l5.text().split(" ")))
             def sendPostRequest(reqUrl,phoneNo, senderId, textMessage):
                 req_params = {
                 'apikey':'LX9TDKCJZEK2PYX1FV820Z5JL57N058H',
